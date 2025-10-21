@@ -1,0 +1,31 @@
+A principal diferença entre estação de trabalho e servidor:
+<ul><!--
+--><li><b>Workstation</b> é um dispositivo avançado especial que é capaz de resolver problemas técnicos e científicos de ponta 
+<li><b>Servidor</b> é um dispositivo especial que fornece serviços às máquinas clientes conectadas a ele.
+</ul><!--
+
+-->O servidor é que as estações de trabalho ajudam a resolver problemas técnicos complexos relacionados à engenharia mecânica, animação, gráficos, 
+simulações, etc., enquanto os servidores fornecem serviços para os clientes manterem o 
+funcionamento adequado dos mesmos.
+<h1 class="title">Estações de trabalho</h1><!--
+-->
+Uma estação de trabalho é um dispositivo projetado para aplicações científicas (aplicações que requerem muito poder computacional). 
+Uma estação de trabalho pode consistir em vários monitores e dispositivos de entrada além de um mouse e teclado.Também pode ter teclados programáveis, controladores e alto-falantes.
+Além disso, uma estação de trabalho oferece alta capacidade de memória e recursos de multitarefa. Portanto, uma estação de trabalho funciona melhor do que um computador pessoal normal. 
+Além disso, as estações de trabalho podem manipular dados complexos em projetos mecânicos 
+em 3D, animações, renderização de imagens e gráficos matemáticos e várias simulações 
+baseadas em engenharia. Portanto, uma estação de trabalho é uma máquina avançada com 
+acessórios e ferramentas de colaboração para realizar tarefas complexas. 
+Servidores 
+Um servidor é um dispositivo especial que fornece serviços para seus dispositivos conectados. 
+Esses dispositivos também são chamados de dispositivos ou clientes de usuários finais. Um único 
+servidor pode fornecer serviços para vários clientes por vez. Pode haver vários servidores em uma 
+única máquina que atende clientes diferentes. Geralmente, um servidor é executado 
+ininterruptamente. Os clientes e o servidor se comunicam através da rede. Os clientes enviam 
+solicitações de serviços do servidor. Em seguida, o servidor responde ao cliente, fornecendo o 
+serviço. 
+Existem vários tipos de servidores. Um servidor da web fornece recursos da web de acordo com 
+as solicitações do cliente. Os servidores de aplicativos fornecem lógica de negócios para 
+programas aplicativos usando diferentes protocolos. Servidores de arquivos fornecem arquivos 
+para os clientes. Servidores de banco de dados executam o DBMS. Além disso, um servidor de e
+mail envia e recebe e-mails usando protocolos de e-mail padrão.
