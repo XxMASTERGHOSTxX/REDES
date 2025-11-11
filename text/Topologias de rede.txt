@@ -1,0 +1,48 @@
+O termo <b>topologia de rede</b> refere-se ao <b>layout físico</b> da rede — ou seja, à forma como os computadores, cabos e outros componentes estão interligados. É o termo usado para descrever o <b>design básico</b> da rede.
+
+A escolha da topologia afeta diretamente:
+<ul>
+  <li>O tipo de equipamento de rede necessário;</li>
+  <li>As capacidades e desempenho do equipamento;</li>
+  <li>As possibilidades de crescimento da rede;</li>
+  <li>A forma como a rede será gerida.</li>
+</ul>
+
+<h3>2. Planeamento e Cablagem</h3>
+<p>
+Antes que os computadores possam partilhar recursos ou comunicar entre si, é necessário que estejam interligados — normalmente através de <b>cabos</b>. Contudo, conectar os computadores não é uma tarefa trivial: existem diversos tipos de cabos, placas de rede e componentes que exigem <b>arranjos físicos específicos</b>.
+</p>
+<p>
+Um bom projeto de rede deve considerar não apenas o tipo de cabo, mas também a forma como este será passado por <b>pisos, tetos e paredes</b>. A topologia define ainda como os computadores se comunicam entre si, pois diferentes topologias requerem diferentes métodos de comunicação, o que influencia diretamente o desempenho da rede.
+</p>
+
+<h3>3. Tipos de Topologias Mais Utilizadas</h3>
+<h4>3.1 Topologia Estrela</h4>
+<figure>
+    <img src=imag/estrela.jpg class="imagem">
+    <figcaption>Figura 4: Topologia Estrela</figcaption>
+</figure>
+<p>
+Na topologia <b>estrela</b>, todos os computadores estão ligados a um <b>dispositivo central</b> (um <i>hub</i> ou <i>switch</i>) através de cabos individuais. Esse dispositivo possui múltiplas portas e é o ponto de convergência de todo o tráfego da rede.
+</p>
+<p>
+Quando uma estação A envia dados para uma estação B, a comunicação é intermediada pelo dispositivo central. No caso dos <b>hubs</b>, o sinal é replicado para todas as portas; já os <b>switches</b> enviam os dados apenas para o destino correto, otimizando a comunicação.
+</p>
+<p>
+A principal vantagem da topologia estrela em relação à topologia de barramento é a <b>tolerância a falhas</b>: uma falha num cabo afeta apenas o segmento correspondente, sem paralisar toda a rede. No entanto, uma falha no dispositivo central interrompe todas as comunicações.
+</p>
+<p>
+Os cabos utilizados são geralmente <b>par trançado (UTP)</b>, semelhantes aos de telefonia, mas com mais pares condutores, e utilizam conectores <b>RJ-45</b>.
+</p>
+
+<h4>3.2 Topologia em Anel</h4>
+<figure>
+    <img src=imag/anel.jpg class="imagem">
+    <figcaption>Figura 5: Topologia em Anel</figcaption>
+</figure>
+<p>
+Na topologia <b>anel</b>, as estações estão ligadas em forma de <b>círculo fechado</b>, sem extremidades. O sinal percorre a rede num <i>loop</i> contínuo, passando por cada estação. Cada computador pode incluir um <b>repetidor</b> para amplificar o sinal, mantendo a integridade da comunicação.
+</p>
+<p>
+Uma falha em qualquer computador ou ligação interrompe o anel e <b>afeta toda a rede</b>, sendo esta a principal desvantagem deste tipo de topologia.
+</p>
