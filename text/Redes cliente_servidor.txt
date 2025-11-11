@@ -1,0 +1,33 @@
+As redes baseadas em servidor são indicadas para ambientes com mais de <b>10 computadores</b>.
+Possuem um ou mais <b>servidores dedicados</b>, ou seja, máquinas que não atuam como clientes e são
+<strong>otimizadas para atender pedidos rapidamente</strong>, garantindo <strong>segurança e gestão centralizada</strong>
+dos recursos partilhados.
+
+<p>
+Nestas redes, há <b>controlo de acesso de utilizadores</b> e permissões específicas, exigindo a presença
+de um <b>administrador de rede</b>. No entanto, a formação técnica dos utilizadores finais não é obrigatória.
+</p>
+
+<h2 class="title">Tipos de Servidores</h2>
+  <figure>
+    <img src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnqlC_-r9iM_T_IQqJDgFs8NEuuIG4aeULP0dQNftHUqqmusqRNG6P1HvGeMM997sv2qtQ3K5HC0-P7Zid3cMSykwS4dxIpHF1nVDe9wEUZSJh8T4vQSyhHbs3Op5jpYJ2Hj_kkD2BM1U-/s1600/servidor-cliente-redes-de-computadores.png class="imagem">
+    <figcaption>Figura 2: Redes cliente\servidor</figcaption>
+  </figure>
+<ul>
+  <li><b>Servidor de Aplicação</b> — processa pedidos enviados por estações cliente, transferindo apenas os dados necessários (ex.: consultas a bases de dados).</li>
+  <li><b>Servidor de Arquivo e Impressão</b> — armazena dados centralizados e disponibiliza-os às estações sempre que necessário.</li>
+  <li><b>Servidor de Correio</b> — semelhante ao de aplicação, mas dedicado ao envio e receção de e-mails.</li>
+  <li><b>Servidor de Comunicação</b> — controla o acesso remoto de utilizadores externos, geralmente através de modems.</li>
+  <li><b>Servidor de Serviços de Diretório</b> — valida utilizadores e gere o acesso a domínios e recursos da rede.</li>
+</ul>
+
+<h2 class="title">Gestão e Segurança</h2>
+
+<p>
+Como todos os <b>dados importantes</b> estão centralizados, é essencial a realização de <b>backups periódicos</b>,
+preferencialmente em horários de baixa utilização. Os sistemas modernos permitem <b>agendamento automático</b>
+dessas cópias de segurança.
+</p>
+
+A <b>redundância</b> é outro elemento crítico: em caso de falha do servidor principal, um <b>servidor secundário</b>
+pode assumir automaticamente, evitando <b>interrupções</b> na rede e perda de dados.
